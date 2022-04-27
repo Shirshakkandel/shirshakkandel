@@ -15,12 +15,12 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" title="Vs code My Code Editor" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" title="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" title="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Sass" title="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img align="left" alt="tailwindCss" title="tailwindCss" width="26px" src="https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="tailwindCss" title="tailwindCss" width="26px" src="https://tailwindcss.com/_next/static/media/social-square.b622e290e82093c36cca57092ffe494f.jpg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" title="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Chakra UI" title="Chakra Ui" width="26px" src="https://avatars.githubusercontent.com/u/54212428?s=280&v=4" style="padding-right:10px;" />
 
