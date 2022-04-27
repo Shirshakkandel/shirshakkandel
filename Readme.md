@@ -8,8 +8,8 @@
 
 ### Connect with me:
 
-[<img alt="HTML5" width="80px" target="_blank" height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png"/>](https://www.linkedin.com/in/shirshak-kandel-a96187191/)
-[<img alt="HTML5" width="80px" height="70px" src="https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto/v1/attachments/generic_asset/asset/5c837aac7c42de1f9f125cff37ab2c70-1612076004546/fiverr-og-logo.png"/>](https://www.fiverr.com/shirshak_kandel?up_rollout=true)
+[<img alt="HTML5" width="80px"  height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png"/>](https://www.linkedin.com/in/shirshak-kandel-a96187191/)
+[<img alt="HTML5" width="80px" height="70px" src="https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto/v1/attachments/generic_asset/asset/5c837aac7c42de1f9f125cff37ab2c70-1612076004546/fiverr-og-logo.png"/>](https://www.fiverr.com/shirshak_kandel)
 
 ### Languages and Tools:
 
