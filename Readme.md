@@ -12,6 +12,8 @@
 [<img alt="HTML5" width="80px" height="70px" title="fiverr" src="https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto/v1/attachments/generic_asset/asset/5c837aac7c42de1f9f125cff37ab2c70-1612076004546/fiverr-og-logo.png"/>](https://www.fiverr.com/shirshak_kandel)
 [<img alt="HTML5" width="80px" height="70px" title="Grepper" src="https://www.codegrepper.com/images/logo_colors_small.png"/>](https://www.codegrepper.com/profile/shirshak-kandel-b0z4rx7607yg)
 
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shirshakkandel&layout=compact&langs_count=8&theme=dark" />
+
 
 ### Languages and Tools:
 
@@ -32,9 +34,9 @@
 <br />
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<br/><br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shirshakkandel&theme=dark" alt="Aashish" /></p>
+<br/><br/>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Shirshakkandel&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=shirshakkandel&theme=dracula" alt="Aashish's activity graph" /></p>
+<br>
