@@ -35,8 +35,8 @@
 
 
 <br/><br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shirshakkandel&theme=dark" alt="Aashish" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shirshakkandel&theme=dark" alt="Shirshak kandel" /></p>
 <br/><br/>
 
-<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=shirshakkandel&theme=dracula" alt="Aashish's activity graph" /></p>
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=shirshakkandel&theme=dracula" alt="Shirshak kandel activity graph" /></p>
 <br>
