@@ -1,3 +1,5 @@
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Shirshakkandel&label=Profile%20views&color=0e75b6&style=flat" alt="Shirshak Kandel" /> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </p>
+
 # Hi there, I'm Shirshak kandel 👋 
 ## I'm a Javascript Developer(Full stack (Mern stack))
 
