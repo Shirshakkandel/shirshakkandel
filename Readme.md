@@ -3,6 +3,8 @@
 # Hi there, I'm Shirshak kandel 👋 
 ## I'm a Javascript Developer(Full stack (Mern stack))
 
+
+
 - 🌱 I’m currently learning Web3(Solidity),strapi headless cms,Google app script and Discord bot
 - 👯 I’m looking to collaborate with other developers in Mern stack project
 - 🥅 2022 Goals: Learn more about web3
@@ -34,6 +36,9 @@
 
 <br />
 <br />
+<p float="right">
+<img width="300px" height="300px" src="./devcard.svg"/>
+ </p>
 
 
 <br/><br/>
