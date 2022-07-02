@@ -37,7 +37,7 @@
 <br />
 <br />
 <p float="right">
-<img width="300px" height="300px" src="./devcard.svg"/>
+<img width="400px" height="400px" src="./devcard.svg"/>
  </p>
 
 
