@@ -16,7 +16,7 @@
 [<img alt="HTML5" width="80px" height="70px" title="fiverr" src="https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto/v1/attachments/generic_asset/asset/5c837aac7c42de1f9f125cff37ab2c70-1612076004546/fiverr-og-logo.png"/>](https://www.fiverr.com/shirshak_kandel)
 [<img alt="HTML5" width="80px" height="70px" title="Grepper" src="https://d2441bdvuxbh7t.cloudfront.net/web/images/logo_white_small.png"/>](https://www.codegrepper.com/profile/shirshak)
 
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shirshakkandel&layout=compact&langs_count=8&theme=dark" />
+
 
 
 ### Languages and Tools:
