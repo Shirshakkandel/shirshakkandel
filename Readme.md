@@ -9,12 +9,15 @@
 - 👯 I’m looking to collaborate with other developers in Mern stack project
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love to play Table Tennis,Cricket,basketball and Football.
+-  My coding time from Jun 12 2022 is - <br> <br>
+[![wakatime](https://wakatime.com/badge/user/1a9949ef-8f0c-4041-91ee-2e53b450be83.svg)](https://wakatime.com/@1a9949ef-8f0c-4041-91ee-2e53b450be83)
 
 ### Connect with me:
 
 [<img alt="HTML5" width="80px" height="70px" title="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png"/>](https://www.linkedin.com/in/shirshak-kandel-a96187191/)
 [<img alt="HTML5" width="80px" height="70px" title="fiverr" src="https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto/v1/attachments/generic_asset/asset/5c837aac7c42de1f9f125cff37ab2c70-1612076004546/fiverr-og-logo.png"/>](https://www.fiverr.com/shirshak_kandel)
 [<img alt="HTML5" width="80px" height="70px" title="Grepper" src="https://d2441bdvuxbh7t.cloudfront.net/web/images/grepper_and_logo.jpeg"/>](https://www.codegrepper.com/profile/shirshak)
+
 
 
 
