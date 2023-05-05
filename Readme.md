@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning Web3(Solidity),strapi headless cms,Google app script and Discord bot
+- 🌱 I’m currently working in blockchain company.
 - 👯 I’m looking to collaborate with other developers in Mern stack project
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love to play Table Tennis,Cricket,basketball and Football.
