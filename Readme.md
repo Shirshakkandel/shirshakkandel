@@ -4,11 +4,9 @@
 ## I'm a Javascript Developer(Full stack (Mern stack))
 
 
-
-- 🌱 I’m currently working in blockchain company.
-- 👯 I’m looking to collaborate with other developers in Mern stack project
+- 👯 I want to work in full stack Nextjs and Nodejs Projects.
 - 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to play Table Tennis,Cricket,basketball and Football.
+- ⚡ Fun fact: I love to play Table Tennis, Cricket, basketball, and Football.
 -  My coding time from Jun 12 2022 is - <br> <br>
 [![wakatime](https://wakatime.com/badge/user/1a9949ef-8f0c-4041-91ee-2e53b450be83.svg)](https://wakatime.com/@1a9949ef-8f0c-4041-91ee-2e53b450be83)
 
