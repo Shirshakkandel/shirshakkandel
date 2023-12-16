@@ -1,11 +1,10 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Shirshakkandel&label=Profile%20views&color=0e75b6&style=flat" alt="Shirshak Kandel" /> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </p>
 
 # Hi there, I'm Shirshak kandel 👋 
-## I'm a Javascript Developer(Full stack (Mern stack))
+## I'm a Javascript Developer(Full stack Website and Mobile Developer)
 
 
-- 👯 I want to work in full stack Nextjs and Nodejs Projects.
-- 🥅 2022 Goals: Learn more about web3
+- 👯 I want to work in full stack Nextjs, Nodejs Projects, React Native Project.
 - ⚡ Fun fact: I love to play Table Tennis, Cricket, basketball, and Football.
 -  My coding time from Jun 12 2022 is - <br> <br>
 [![wakatime](https://wakatime.com/badge/user/1a9949ef-8f0c-4041-91ee-2e53b450be83.svg)](https://wakatime.com/@1a9949ef-8f0c-4041-91ee-2e53b450be83)
