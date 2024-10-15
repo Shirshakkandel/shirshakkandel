@@ -9,6 +9,8 @@
 
 [![Shirshak WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shirshakkandel)](https://github-readme-stats.vercel.app/api/wakatime?username=shirshakkandel)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirshakkandel)](https://github-readme-stats.vercel.app/api/top-langs/?username=shirshakkandel)
+
 ### Connect with me:
 
 [<img alt="HTML5" width="80px" height="70px" title="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png"/>](https://www.linkedin.com/in/shirshak-kandel-a96187191/)
@@ -20,26 +22,6 @@
 
 
 
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" title="Vs code My Code Editor" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" title="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" title="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sass" title="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img align="left" alt="tailwindCss" title="tailwindCss" width="26px" src="https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" title="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Chakra UI" title="Chakra Ui" width="26px" src="https://avatars.githubusercontent.com/u/54212428?s=280&v=4" style="padding-right:10px;" />
-
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-
-<br />
-<br />
-<p float="right">
-<img width="400px" height="400px" src="./devcard.svg"/>
- </p>
 
 
 <br/><br/>
