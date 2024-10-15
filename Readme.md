@@ -7,7 +7,7 @@
 [![wakatime](https://wakatime.com/badge/user/1a9949ef-8f0c-4041-91ee-2e53b450be83.svg)](https://wakatime.com/@1a9949ef-8f0c-4041-91ee-2e53b450be83)
 
 
-[![Shirshak WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shirshakkandel)](https://github.com/anuraghazra/github-readme-stats)
+[![Shirshak WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shirshakkandel)](https://github-readme-stats.vercel.app/api/wakatime?username=shirshakkandel)
 
 ### Connect with me:
 
