@@ -1,10 +1,11 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Shirshakkandel&label=Profile%20views&color=0e75b6&style=flat" alt="Shirshak Kandel" /> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </p>
 
 # Hi there, I'm Shirshak kandel 👋 
-## I'm a Javascript Developer(Full stack Website and Mobile Developer)
+## I'm a Fullstack Applied Generative AI python and Javascript developer
 
 -  My coding time from Jun 12 2022 is - <br> <br>
 [![wakatime](https://wakatime.com/badge/user/1a9949ef-8f0c-4041-91ee-2e53b450be83.svg)](https://wakatime.com/@1a9949ef-8f0c-4041-91ee-2e53b450be83)
+[![Shirshak WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shirshakkandel)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
 
