@@ -9,7 +9,7 @@
 
 [![Shirshak WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shirshakkandel)](https://github-readme-stats.vercel.app/api/wakatime?username=shirshakkandel)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirshakkandel)](https://github-readme-stats.vercel.app/api/top-langs/?username=shirshakkandel)
+
 
 ### Connect with me:
 
