@@ -31,7 +31,7 @@ My coding adventure began on **June 12, 2022**, and I've been coding ever since!
 
 **SabLearning** - A comprehensive YouTube learning platform that transforms passive viewing into active learning experiences. Features include progress tracking, rich note-taking, and structured learning paths.
 
-🔗 [Live Demo](https://www.sablearning.com/) 
+🔗 [Live Demo](https://www.sablearning.com/) | [Repository](https://github.com/SabLearning/SabLearning)
 
 ---
 
