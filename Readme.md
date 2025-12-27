@@ -11,7 +11,7 @@ I'm a **Fullstack Applied Generative AI TypeScript and JavaScript Developer** pa
 
 ### 📊 Coding Journey
 
-My coding adventure began on **June 12, 2022**, and I've been coding ever since!
+My coding adventure began in **May 2020 during the lockdown**, and I've been tracking my progress on Wakatime since **June 12, 2022**!
 
 <p align="center">
   <a href="https://wakatime.com/@1a9949ef-8f0c-4041-91ee-2e53b450be83">
