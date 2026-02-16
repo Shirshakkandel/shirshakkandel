@@ -35,4 +35,3 @@ My coding adventure began in **August 2020 during the lockdown**, and I've been 
 
 ---
 
-⭐️ **Building the future of education through technology!**
